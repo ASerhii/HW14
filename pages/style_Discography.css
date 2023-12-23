@@ -1,0 +1,31 @@
+body {
+    /*color: whitesmoke;*/
+    background-size: cover;
+    font-size: 110%;
+}
+
+
+.img_line {
+    border: 1px black; /* Рамка навколо зображення */
+		padding: 10px; /* Відстань від картинки до рамки */
+		/*background: none; /* Колір фона */
+		margin-right: none; /* Відступ зправа */
+		margin-bottom: 20px; /* Відступ знизу */
+}
+
+table,td{
+    border: 1px black;
+    text-align:left;
+    vertical-align: top;
+    width: 200;
+  } 
+  
+  td{
+     padding: none;
+  }
+  div {
+    border: 1px black;
+    padding: 1px;
+    text-align: center;
+    font-style: normal;
+  }
