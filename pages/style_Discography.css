@@ -7,7 +7,7 @@ body {
 
 .img_line {
     border: 1px black; /* Рамка навколо зображення */
-		padding: 10px; /* Відстань від картинки до рамки */
+		padding: 5px; /* Відстань від картинки до рамки */
 		/*background: none; /* Колір фона */
 		margin-right: none; /* Відступ зправа */
 		margin-bottom: 20px; /* Відступ знизу */
